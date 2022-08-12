@@ -410,6 +410,18 @@ border-top-left-radius: 5px;
 
 }
 
+.fontsize-title-2{
+	font-size: 14px;
+	font-family:  'roboto','Helvetica','arial',sans-serif;
+	font-weight: normal;
+	margin-bottom: 8px;
+	line-height: 1.25;
+	font-weight: 300;
+	
+   -webkit-text-stroke-color: #404040;
+
+}
+
 
 .fontsize-subtitle{
 	font-size: 12px;
