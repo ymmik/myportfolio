@@ -319,7 +319,7 @@ padding-top: 5%;
 	background-color: #fefefe;
 	border-radius: 5px;
 	box-shadow: 0 3px 5px 0 rgba(0,0,0,0.1);
-	padding-bottom: 8px;
+	padding:  0px;
 }
 
 .work-card-inner:hover{
@@ -349,6 +349,7 @@ padding:15px;
 
 .work-title{
 padding-left: 8px;
+padding-bottom: 8px;
 }
 
 
