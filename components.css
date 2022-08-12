@@ -399,8 +399,8 @@ width: 100%;
 	font-size: 16px;
 	font-family:  'roboto','Helvetica','arial',sans-serif;
 	font-weight: normal;
-	margin-top:24px;
-	margin-bottom: 8px;
+	margin-top:0px;
+	margin-bottom: 0px;
 	line-height: 1.25;
 	font-weight: 300;
 	
@@ -412,7 +412,7 @@ width: 100%;
 	font-size: 14px;
 	font-family:  'roboto','Helvetica','arial',sans-serif;
 	font-weight: normal;
-	margin-bottom: 5px;
+	margin-bottom: 0px;
 	line-height: 1.25;
 	margin-top:0px;
 	
@@ -425,7 +425,7 @@ width: 100%;
 	font-size: 12px;
 	font-family: 'roboto','Helvetica','arial',sans-serif;
 	margin-top: 0px;
-	margin-bottom: 0px;
+	margin-bottom: 8px;
 	line-height: 1.68;
 	color: #696969;
 	font-weight: 300;
