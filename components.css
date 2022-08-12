@@ -400,6 +400,7 @@ width: 100%;
 	font-family:  'roboto','Helvetica','arial',sans-serif;
 	font-weight: normal;
 	margin-bottom: 8px;
+	margin-top: 0px;
 	line-height: 1.25;
 	font-weight: 300;
 	
@@ -414,6 +415,7 @@ width: 100%;
 	margin-bottom: 0px;
 	line-height: 1.25;
 	margin-top:0px;
+	font-weight: 300;
 	
    -webkit-text-stroke-color: #404040;
 
