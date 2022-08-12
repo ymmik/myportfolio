@@ -348,9 +348,7 @@ padding:15px;
 
 
 .work-title{
-padding-left: 8px;
-padding-right: 8px;
-padding-bottom: 8px;
+padding: 8px;
 }
 
 
@@ -401,7 +399,6 @@ width: 100%;
 	font-size: 16px;
 	font-family:  'roboto','Helvetica','arial',sans-serif;
 	font-weight: normal;
-	margin-top:8px;
 	margin-bottom: 8px;
 	line-height: 1.25;
 	font-weight: 300;
