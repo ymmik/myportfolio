@@ -359,6 +359,7 @@ overflow: hidden;
 height: 70%;
 border-top-right-radius: 5px;
 border-top-left-radius: 5px;
+max-height: 200;
 }
 
 .pic-2{
