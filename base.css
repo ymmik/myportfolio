@@ -449,8 +449,29 @@ h6{
   margin-bottom: 16px;
 }
 
+
 p{
   font-size: 16px;
+  font-weight: 400;
+  font-family: 'Helvetica','roboto','arial',sans-serif;
+  line-height: 32px;
+  margin-bottom: 16px;
+  letter-spacing: 0;
+
+}
+
+p1{
+  font-size: 14px;
+  font-weight: 400;
+  font-family: 'Helvetica','roboto','arial',sans-serif;
+  line-height: 32px;
+  margin-bottom: 16px;
+  letter-spacing: 0;
+
+}
+
+p2{
+  font-size: 12px;
   font-weight: 400;
   font-family: 'Helvetica','roboto','arial',sans-serif;
   line-height: 32px;
