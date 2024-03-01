@@ -782,9 +782,3 @@ hr.style-four {
 }
 
 
-.background-section {
-  background-image: url('images/kelo_ui.png');
-  background-size: cover;
-  background-position: center;
-  height: 300px; /* 調整高度，以限制顯示的部分 */
-}
